@@ -86,8 +86,8 @@ const Product = ({ item, provider, account, dappazon, togglePop }) => {
             Buy Now
           </button>
 
-          <p><small>Ships from</small> Dappazon</p>
-          <p><small>Sold by</small> Dappazon</p>
+          <p><small>Ships from</small> Dave-a-zon</p>
+          <p><small>Sold by</small> Dave-a-zon</p>
 
           {order && (
             <div className='product__bought'>
